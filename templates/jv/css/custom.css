@@ -1,0 +1,112 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15.04.2017, 16:33:09
+    Author     : TRSHKV
+*/
+.body {
+  color: black;
+  background-color: #FFFCF8; }
+
+.container {
+  background-color: white;
+  border-style: none dotted dotted dotted;
+  border-width: 3px;
+  border-color: #f4d9e3; }
+
+.header {
+  margin-left: -15px;
+  min-height: 224px;
+  float: left;
+  text-shadow: 1px;
+  border-style: none none dotted none;
+  border-width: 3px;
+  border-color: #f4d9e3; }
+  .header .header-lg {
+    position: relative;
+    min-height: 224px;
+    width: 1165px;
+    background-image: url(../img/header1170x224.jpg); }
+  .header .header-md {
+    min-height: 224px;
+    width: 965px;
+    background-image: url(../img/header970x224.jpg); }
+  .header .header-sm {
+    min-height: 224px;
+    width: 745px;
+    background-image: url(../img/header750x224.jpg); }
+  .header .header-xs {
+    min-height: 224px;
+    width: 745px;
+    background-image: url(../img/header750x224.jpg); }
+    .header .header-xs .sitename {
+      padding-left: 40px;
+      text-align: center; }
+  .header .sitename {
+    padding-top: 40px;
+    min-height: 224px;
+    color: #69BCC3;
+    font-size: 57px;
+    font-family: Georgia;
+    text-align: center; }
+
+.top-jv {
+  border-style: none none dotted none;
+  border-width: 3px;
+  border-color: #f4d9e3; }
+
+.contacts {
+  margin-top: 5px;
+  min-height: 100px;
+  max-width: 300px;
+  background-image: url(../img/contacts.jpg); }
+
+.cart-jv {
+  margin-top: 10px;
+  min-height: 120px;
+  background-image: url(../img/cart.jpg); }
+
+.address {
+  margin-top: 10px;
+  min-height: 120px;
+  max-width: 170px;
+  line-height: 1.65;
+  text-indent: 10px;
+  background-image: url(../img/address.jpg); }
+
+.search {
+  margin-top: 10px; }
+
+.filter {
+  margin-top: 10px; }
+
+.available-pic {
+  background-image: url(../img/available.jpg);
+  min-height: 30px;
+  min-width: 30px; }
+
+.price-pic {
+  background-image: url(../img/price.jpg);
+  max-height: 30px;
+  min-width: 30px; }
+
+.price-jv {
+  font-size: 20px; }
+
+div {
+  color: #666; }
+
+a, h2 {
+  color: #69BCC3; }
+
+h1 {
+  color: #666; }
+
+h3 {
+  font-family: arial;
+  font-size: 1.5em; }
+
+/*# sourceMappingURL=custom.css.map */
