@@ -9,7 +9,8 @@ and open the template in the editor.
 */
 .body {
   color: black;
-  background-color: #FFFCF8; }
+  background-color: #FFFCF8;
+  border: #69BCC3; }
 
 .container {
   background-color: white;
@@ -44,7 +45,7 @@ and open the template in the editor.
     background-image: url(../img/header750x224.jpg); }
     .header .header-xs .sitename {
       padding-left: 40px;
-      text-align: center; }
+      text-align: left; }
   .header .sitename {
     padding-top: 40px;
     min-height: 224px;
